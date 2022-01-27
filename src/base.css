@@ -311,7 +311,7 @@ div[class*="typeWindows-"]>div[role="button"] {
    and has the role attribute of "button"
 */
 
-div[class*="peopleColumn-"]>div[role="tabpanel"] {
+div[class*="peopleList-"]>div[role="list"] {
 	--background-secondary: transparent;
 	--background-primary: var(--background-solid-dark);
 	--background-modifier-hover: rgba(var(--white), 0.075);
