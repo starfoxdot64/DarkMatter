@@ -1,9 +1,6 @@
-# Dark Matter
-A cold, dark & frosty theme.
-> This is a remake of the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
+# Dark Matter, slightly tweaked.
+A cold, dark & frosty theme, turned dark and moody.
+> This is a remake of another remake from DiscordStyles. See the original Dark Matter theme by [cosmicsalad](http://github.com/cosmicsalad/) (AKA Hammock).
 
-![Preview](https://i.imgur.com/xSG96qa.png)
 
-## Credits
-* Hammock for making the original theme.
-* Devilbro for giving me permission to use his BlurpleRecolor theme. This saved a lot of time.
+Expect broken stuff though, cuz I barely know what I'm doing, lmao.
