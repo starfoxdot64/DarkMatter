@@ -56,6 +56,7 @@ button {
 	--background-modifier-selected: rgba(var(--black), 0.6);
 	--elevation-low: inset 0 -1px 0 0 rgba(var(--black), 0.3);
 	--channels-default: rgba(var(--white), 0.3);
+	--online-tab: var(--background-solid);
 	--deprecated-quickswitcher-input-background: var(--background-solid);
 	--header-primary: rgba(var(--white), 1);
 	--header-secondary: rgba(var(--white), 0.6);
